@@ -1,0 +1,21 @@
+
+Log Entry : 
+12/21/2015 15:56:53
+Error in: http://localhost:33450/api/empsvc/FindBymanagerId?fname=175. Error Message:Error msg: ORA-00920: invalid relational operator
+ StackTrace:    at empservice.DAL.Utility.FindByManagerId(String mgrId) in c:\Users\130288\Documents\Visual Studio 2012\Projects\empservice\empservice\empservice\DAL\Utility.cs:line 250
+   at empservice.Controllers.EmpSvcController.FindByManagerId(String fname) in c:\Users\130288\Documents\Visual Studio 2012\Projects\empservice\empservice\empservice\Controllers\EmpSvcController.cs:line 125
+__________________________
+
+Log Entry : 
+12/21/2015 15:57:15
+Error in: http://localhost:33450/api/empsvc/FindBymanagerId?fname=175. Error Message:Error msg: ORA-00920: invalid relational operator
+ StackTrace:    at empservice.DAL.Utility.FindByManagerId(String mgrId) in c:\Users\130288\Documents\Visual Studio 2012\Projects\empservice\empservice\empservice\DAL\Utility.cs:line 250
+   at empservice.Controllers.EmpSvcController.FindByManagerId(String fname) in c:\Users\130288\Documents\Visual Studio 2012\Projects\empservice\empservice\empservice\Controllers\EmpSvcController.cs:line 125
+__________________________
+
+Log Entry : 
+12/21/2015 15:58:20
+Error in: http://localhost:33450/api/empsvc/FindBymanagerId?fname=175. Error Message:Error msg: ORA-00920: invalid relational operator
+ StackTrace:    at empservice.DAL.Utility.FindByManagerId(String mgrId) in c:\Users\130288\Documents\Visual Studio 2012\Projects\empservice\empservice\empservice\DAL\Utility.cs:line 250
+   at empservice.Controllers.EmpSvcController.FindByManagerId(String fname) in c:\Users\130288\Documents\Visual Studio 2012\Projects\empservice\empservice\empservice\Controllers\EmpSvcController.cs:line 125
+__________________________
